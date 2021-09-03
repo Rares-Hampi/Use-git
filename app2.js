@@ -119,3 +119,4 @@ function finishGame() {
   btn.style.display = "block";
   CharTyped.style.display = "block";
 }
+console.log("eu");
